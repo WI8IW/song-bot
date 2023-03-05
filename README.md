@@ -10,7 +10,7 @@ with & without commands
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WI8IW/song-bot)
 
 ##### Deploy - Without Command
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shamilhabeebnelli/song-bot/tree/Without-CMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WI8IW/song-bot/tree/WI8IW-patch-1)
 
 ## Deploy Hard Way
 No Any Hard Ways Deploy simple way 🤗🤣
